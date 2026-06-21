@@ -1,0 +1,28 @@
+# Node dependencies
+**/node_modules/
+
+# Next.js build output
+.naftal-frontend/.next/
+naftal-frontend/.next/
+.next/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Backup git metadata from nested repository
+naftal-frontend/.git.bak
